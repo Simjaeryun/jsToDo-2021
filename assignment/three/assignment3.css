@@ -1,0 +1,9 @@
+.num_result_box {
+  display: flex;
+}
+
+div {
+  margin-bottom: 30px;
+  font-weight: bold;
+  font-size: 20px;
+}
