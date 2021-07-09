@@ -141,3 +141,10 @@ img {
   margin-top: 1rem;
   font-size: 3rem;
 }
+
+@media screen and (max-width: 645px) {
+  html,
+  body {
+    font-size: 6px;
+  }
+}
